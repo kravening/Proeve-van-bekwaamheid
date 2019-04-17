@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _DepthThreshold: 0.002277
+    - _DepthThreshold: 1.717177e+12
     m_Colors:
     - _ContourColor: {r: 1, g: 1, b: 1, a: 1}
     - _SurfaceColor: {r: 0, g: 0, b: 0, a: 0}
